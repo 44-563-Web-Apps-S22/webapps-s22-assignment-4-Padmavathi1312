@@ -1,0 +1,15 @@
+h1 {color:orange;
+}
+/* Comments in CSS can also be
+inside <style> elements in HTML*/
+p {background-color: red;
+font-family: Times;
+border: 5px solid blue;
+padding: 10px;
+}
+.speech{font-size: medium; font: italic; color: black;}
+.direction{background-color: azure; color: black;}
+.direction :hover{background-color: aquamarine; color: coral;}
+.Tartuffe{color: blanchedalmond;}
+.Laurent{color: bisque;}
+.Dorine{color: cornsilk;}
