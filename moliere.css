@@ -2,14 +2,11 @@ h1 {color:orange;
 }
 /* Comments in CSS can also be
 inside <style> elements in HTML*/
-p {background-color: red;
-font-family: Times;
-border: 5px solid blue;
-padding: 10px;
-}
-.speech{font-size: medium; font: italic; color: black;}
-.direction{background-color: azure; color: black;}
-.direction :hover{background-color: aquamarine; color: coral;}
-.Tartuffe{color: blanchedalmond;}
-.Laurent{color: bisque;}
-.Dorine{color: cornsilk;}
+
+.speech{font-size: medium; color: black; font-style: italic;}
+.direction{background-color:beige; color: black; font-size: large;}
+.direction:hover{background-color: aquamarine; color: coral;}
+.Tartuffe{color: burlywood; font-size: large;}
+.Elmire{color: darkcyan; font-size: large;}
+.Dorine{color:coral; font-size: large;}
+.Person{color: blueviolet; font-size: large;}
