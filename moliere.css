@@ -1,8 +1,5 @@
 h1 {color:orange;
 }
-/* Comments in CSS can also be
-inside <style> elements in HTML*/
-
 
 .speech{font-size: medium; color: black; font-style: italic;}
 .direction{background-color:beige; color: black; font-size: large;}
