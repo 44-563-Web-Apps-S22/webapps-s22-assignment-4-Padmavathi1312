@@ -8,4 +8,9 @@ h1 {color:orange;}
 .Dorine{color:coral; font-size: large;}
 .Person{color: blueviolet; font-size: large;}
 .Table,th,td,tr{border: 1mm; border-color:darkseagreen ; border-style: double; color: rgb(11, 114, 117); text-align: left; padding: 1mm; margin: 1cm;}
-.name:hover{text-shadow:2px 4px 3px rgb(rgb(10, 13, 14)); color: teal;filter: pink(3px);border: double 2px black;}
+.name:hover{text-shadow:2px 4px 3px rgb(rgb(16, 110, 95)); color: teal;filter: pink(3px);border: double 2px black;}
+ul.navbar-horizontal {list-style-type: none;margin: 20px;padding: 0;}
+ul.navbar-horizontal li {float:left; background-color:antiquewhite}
+ul.navbar-horizontal a {color: rgb(78, 30, 30);display:block;padding:20px;margin: 10px;}
+ul.navbar-horizontal a:hover { background-color:cornsilk; color:coral; }
+.icon{float: right;}
